@@ -1,1 +1,1 @@
-#Global independent Directore Data Bank 
+ #Global independent Directore Data Bank 
